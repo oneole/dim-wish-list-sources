@@ -1,3 +1,4 @@
+title:Haagent's God roll list :)
 description:For player Haagent#9282 use ONLY
 
 dimwishlist:item=3568377122&perks=1478423395,1380253176,951095735,3194351027
